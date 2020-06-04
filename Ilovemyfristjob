@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Мой 1 сайт!</title>
+<meta charset="utf-8">
+<meta name="keywords" content="мой сайт, html, привет бро">
+<meta name="keywords" content="Этот сайт помогает создавать людям собственные сайты">
+<link rel="shortcut icon" href="https://atom.io/favicon.ico">
+</head>
+<body>
+  Привет я <a href="https://www.youtube.com/channel/UCUjKHpznCBaLrFJhgNf5f6g?view_as=subscriber"> para_hod</a>
+<h1>это что-то?</h1>
+<h2>сиреноголовый!</h2>
+<p id="ideveloper">Текст внутри <br> тега p</p>
+<p><b>Текст жирный</b></p>
+<p><em>Текст курсивом</em></p>
+<a href="https://www.youtube.com/channel/UCUjKHpznCBaLrFJhgNf5f6g?view_as=subscriber">Канал на youtube</a>
+<br>
+<a href="#ideveloper">Якорь на параграф ideveloper</a>
+
+<ul>
+<li>Первый элемент списка</li>
+ <li> <a href="https://www.youtube.com/watch?v=XidS7ZjLQZQ">1 видео канала</a>
+<li> <a href="https://ya.ru">Yandex</a> ссылка на главную страницу</li>
+</ul>
+
+<hr>
+
+
+    <div class="gffgdfdgdfdf">
+
+
+
+    </div>
+
+    <table border="1">
+          <thead>
+            <tr>
+              <th>Подписчиков сейчас</th>
+              <th>Может быть</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>39</td>
+              <td>400</td>
+            </tr>
+            <tr>
+              <td>39</td>
+              <td>50000</td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td colspan="2">Итого:50400</td>
+            </tr>
+          </tfoot>
+        </table>
+
+<p><em> Thanks to the ATOM program <img src="http://bit.ly/2IqQm5t" height="90"> </em></p>
+Напиши что нибудь)
+<input type="text">
+
+</body>
+</html>
